@@ -1,1 +1,1 @@
-first proyect as a web dev
+first project as a web dev
